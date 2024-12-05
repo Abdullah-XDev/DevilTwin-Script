@@ -20,13 +20,16 @@ This script automates the process of creating a **Fake Access Point (DevilTwin A
    git clone https://github.com/Abdullah-XDev/DevilTwin-Script.git
    
 ## Steps:
+  1- cd
       
-      1- cd DevilTwin-Script
+       cd DevilTwin-Script
       
-      2- Make the script executable:
+  2- Make the script executable:
+  
           chmod +x deviltwin.sh
       
-      3- Run the script as root:
+  3- Run the script as root:
+   
           sudo ./deviltwin.sh
    
 ## Disclaimer
