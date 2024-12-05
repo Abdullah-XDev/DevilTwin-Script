@@ -19,9 +19,8 @@ Make sure you have the following installed:
 
 ## Install Tools (If Not Installed)
 Use the following commands to install the tools on Debian-based systems:
-```bash `sudo apt update`
-
-```bash `udo apt install aircrack-ng dnsmasq hostapd -y`
+ `sudo apt update`
+ `udo apt install aircrack-ng dnsmasq hostapd -y`
 
 ## Usage
 1. Clone this repository:
