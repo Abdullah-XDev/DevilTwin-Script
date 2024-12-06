@@ -1,5 +1,12 @@
 #!/bin/bash
 
+echo "****************************************"
+echo "*                                      *"
+echo "*      Welcome to DevilTwin Script!    *"
+echo "*       Created by Abdullah XDev       *"
+echo "*                                      *"
+echo "****************************************"
+
 # Script to perform DevilTwin attack setup with process killing
 
 function list_wifi_adapters {
