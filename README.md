@@ -1,3 +1,5 @@
+![Alt text](assets/DevilTwin.webp)
+
 # DevilTwin Script
 
 This script automates the process of creating a **Fake Access Point (DevilTwin Attack)** using Kali Linux or a similar penetration testing distribution.
